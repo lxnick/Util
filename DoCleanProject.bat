@@ -1,0 +1,1 @@
+CALL CleanProject.exe /RF:*.sdf /RF:*.vcxproj.user /RF:*.vcxproj.filters /RD:ipch /RD:Debug /RD:Release
